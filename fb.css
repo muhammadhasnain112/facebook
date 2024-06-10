@@ -1,0 +1,26 @@
+.main {
+    height: 100vh;
+    box-shadow: 10px 10px 20px black;
+
+    border-radius: 50px;
+
+}
+
+.head {
+    position: relative;
+    top: 120px;
+    font-size: 120px;
+    text-shadow: 10px 10px 10px gray;
+    transition: 0.4;
+}
+
+.head:hover {
+    font-size: 130px;
+    text-shadow: 10px 20px 30px green;
+
+}
+
+input {
+    border-radius: 5px;
+
+}
